@@ -1,0 +1,27 @@
+.EightBall {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+}
+.EightBall-counter {
+  border: black 1px solid;
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+button {
+  cursor: pointer;
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: gray 1px solid;
+
+}
